@@ -70,7 +70,7 @@ def main():
         #t=t-1
         loop()
         sleep(0.3)
-        system("clear")
+        system("cls")
         c+=1
 
 main()
